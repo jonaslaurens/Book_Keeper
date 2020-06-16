@@ -7,4 +7,6 @@
 3. added dependencies
 4. added configs
 5. added gitignore
-6. 
+6. added classes
+7. added style
+8. 
